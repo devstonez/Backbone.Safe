@@ -1,0 +1,23 @@
+{
+  "name": "backbone.safe-ds",
+  "description": "Dev{eloper} Stonez fork of Backbone.Safe by Oren Farhi (https://github.com/orizens/Backbone.Safe)",
+  "version": "0.3.0",
+	"homepage": "http://github.com/devstonez/Backbone.Safe",
+  "author": "Oren Farhi <jrburke@gmail.com> (http://github.com/jrburke)",
+  "main": "backbone.safe.js",
+  "dependencies": {
+    "backbone": "~1.0.0",
+    "underscore": "~1.4.4",
+  },
+  "repository": {
+		"type": "git",
+		"url": "git://github.com/devstonez/Backbone.Safe.git"
+	},
+  "bugs": {
+    "url": "http://github.com/devstonez/Backbone.Safe/issues"
+  },
+  "keywords": [
+    "backbone",
+    "localstorage"
+  ],
+}

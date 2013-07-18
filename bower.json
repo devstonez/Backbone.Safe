@@ -1,0 +1,9 @@
+{
+  "name": "backbone.safe-ds",
+  "description": "Dev{eloper} Stonez - Backbone.Safe",
+  "version": "0.3.0",
+  "dependencies": {
+    "backbone": "~1.0.0",
+    "underscore": "~1.4.4",
+  }
+}
