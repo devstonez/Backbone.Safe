@@ -1,4 +1,15 @@
 #################
+## Bower components
+#################
+components
+bower_components
+
+#################
+## Node modules
+#################
+node_modules
+
+#################
 ## Eclipse
 #################
 
