@@ -1,9 +1,18 @@
 {
   "name": "backbone.safe-ds",
-  "description": "Dev{eloper} Stonez - Backbone.Safe",
+  "description": "Dev{eloper} Stonez fork of Backbone.Safe by Oren Farhi (https://github.com/orizens/Backbone.Safe)",
   "version": "0.3.0",
   "dependencies": {
     "backbone": "~1.0.0",
     "underscore": "~1.4.4",
-  }
+  },
+  "repository": {
+		"type": "git",
+		"url": "git://github.com/devstonez/Backbone.Safe.git"
+	},
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ]
 }
